@@ -100,7 +100,7 @@ p{
 .grid-main .izquierda .img-cuadro{
     width: 100%;
     height: 30rem;
-    background-image: url(/assets/images/image-web-3-desktop.jpg);
+    background-image: url(../assets/images/image-web-3-desktop.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -238,7 +238,7 @@ p{
     .grid-main .izquierda .img-cuadro{
         width: 100%;
         height: 30rem;
-        background-image: url(/assets/images/image-web-3-mobile.jpg);
+        background-image: url(../assets/images/image-web-3-mobile.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
